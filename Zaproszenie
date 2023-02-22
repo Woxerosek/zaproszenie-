@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kupon na randki</title>
+</head>
+<body>
+	<h1>Kupon na randki</h1>
+	<p>Cześc Jula</p>
+	<p>Jest to kupon na 10 darmowych randek. Chciałbym go tobie wręczyć ponieważ tak. P.S. bardzo cie KOCHAM</p>
+	<p>Szczegóły:</p>
+	<ul>
+		<li>Data: Kiedy chcesz</li>
+		<li>Czas: O każdej porze dnia i nocy</li>
+		<li>Lokacja: Gdzie chcesz</li>
+	</ul>
+	<p>Prosze daj mi znać jesli bedziesz chciala wykorzystac kupon.</p>
+	<p>Twój</p>
+	<p>Wojtek</p>
+</body>
+</html>
